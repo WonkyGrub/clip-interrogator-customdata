@@ -20,6 +20,11 @@ art brut
 art deco
 art informel
 art nouveau
+level design
+videogame concept art
+AAA concept art Architectural Level Design Environment Concept Art
+Splash art
+illustration
 art photography
 arte povera
 arts and crafts movement
@@ -55,6 +60,16 @@ dau-al-set
 de stijl
 deconstructivism
 digital art
+cyberpunk
+sigilpunk
+techpunk
+frostpunk
+steampunk
+post apocalyptic
+utopian
+dystopian
+megastructure
+eldritch
 ecological art
 environmental art
 excessivism
@@ -198,3 +213,15 @@ video art
 viennese actionism
 visual art
 vorticism
+romanticism
+luminism
+sci-fi
+fantasy
+dark fantasy
+eerie sci-fi
+vaporwave
+synthwave
+aesthetic
+elegaic
+liminal
+nostalgic
